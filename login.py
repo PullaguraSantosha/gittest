@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 This is a python updated file
 =======
 changed
->>>>>>> login-files
